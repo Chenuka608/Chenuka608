@@ -1,22 +1,22 @@
 ## 👋 Hey, I'm Chenuka Sarathchandra (aka @Chenuka608)
 
-Welcome to my GitHub! I'm a passionate and motivated software engineer focused on building smart, secure, and user-friendly applications.
+Welcome to my GitHub! I'm a passionate and driven software engineer who loves solving real-world problems with practical and scalable solutions.
 
 ### 👨‍💻 Interests
 - Full-stack development (MERN, .NET)
-- AI & Machine Learning (especially in cybersecurity and NLP)
-- Real-time applications and cloud infrastructure
+- Applied Machine Learning in cybersecurity
+- Real-time system development and cloud deployment
 - Browser extensions and automation tools
 
 ### 🌱 Currently Learning
-- FastAPI for scalable backend services
-- Graph Neural Networks (GNNs) for phishing detection
-- Docker and Railway for smooth cloud deployment
+- FastAPI for backend API development
+- Advanced deployment with Docker & Railway
+- Fine-tuning phishing detection with TF-IDF + ANN models
 
 ### 🤝 Open to Collaborate On
 - Cybersecurity-focused ML projects
-- AI-driven email/message safety tools
-- Full-stack SaaS/web applications
+- AI-enhanced tools for email/message safety
+- Full-stack SaaS applications
 
 ### 📫 How to Reach Me
 - Email: chenuka.sarathchandra@gmail.com  
@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a passionate and motivated software engineer focused o
 He/Him
 
 ### ⚡ Fun Fact
-I built **ShieldComms** — a real-time multi-channel phishing detection system using AI, running on Gmail, Discord, and Telegram — all from scratch and live in production!
+I built **ShieldComms** — a real-time, multi-platform phishing detection system using TF-IDF + ANN. It works across Gmail, Discord, and Telegram, and yes, it’s live in production!
 
 ---
 
