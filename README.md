@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate and driven software engineer who loves so
 
 ### 📫 How to Reach Me
 - Email: chenuka.sarathchandra@gmail.com  
-- LinkedIn: [linkedin.com/in/chenuka-sarathchandra](https://www.linkedin.com/in/chenuka-sarathchandra)
+- LinkedIn: [linkedin.com/in/chenuka47](https://www.linkedin.com/in/chenuka47)
 - GitHub: [@Chenuka608](https://github.com/Chenuka608)
 
 ### 😎 Pronouns
