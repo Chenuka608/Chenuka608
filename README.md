@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a passionate and driven software engineer who loves so
 - Full-stack SaaS applications
 
 ### 📫 How to Reach Me
-- Email: chenuka.sarathchandra@gmail.com  
+- Email: chenuka478@gmail.com  
 - LinkedIn: [linkedin.com/in/chenuka47](https://www.linkedin.com/in/chenuka47)
 - GitHub: [@Chenuka608](https://github.com/Chenuka608)
 
